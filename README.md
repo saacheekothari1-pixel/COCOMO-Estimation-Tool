@@ -112,7 +112,3 @@ python cocomo.py
 Enter Lines of Code (LOC): 10000
 Enter EAF: 1.0
 ```
-
-## Author
-
-Neha Tirpude
